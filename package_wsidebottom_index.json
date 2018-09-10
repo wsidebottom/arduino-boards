@@ -17,7 +17,7 @@
             "help": {
               "online": "https://github.com/wsidebottom/arduino-boards"
             },
-            "url": "https://github.com/wsidebottom/arduino-boards/raw/master/boards/atmega328pb.zip",
+            "url": "https://raw.githubusercontent.com/wsidebottom/arduino-boards/master/boards/atmega328pb.zip",
             "archiveFileName": "atmega328pb.zip",
             "checksum": "SHA-256:64ec94ba85a5f94b5c73eea4e32dfd9f1047f510c2738eece431bb5579ac861b",
             "size": "334233",
